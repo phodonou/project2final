@@ -6,7 +6,8 @@ body{
     background-color: #d9e6fc;
     align-items: center;
     margin-left: 2%;
-    margin-right: 2%
+    margin-right: 2%;
+    position: fixed;
 }
 
 h2{
