@@ -35,6 +35,7 @@ h2{
     padding: 14px 16px;
     text-decoration: none;
     float: right;
+    position: relative;
   }
 
   .linav a:hover {
